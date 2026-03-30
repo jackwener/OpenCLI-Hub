@@ -52,17 +52,6 @@ A single repository can contain multiple plugins via `opencli-plugin.json`:
 
 ---
 
-## CLI Ecosystem
-
-Other CLI tools in the ecosystem that share a similar vision — unifying platform capabilities into terminal-friendly interfaces for both humans and AI agents.
-
-| Project | Description | Author |
-|---------|-------------|--------|
-| [dingtalk-workspace-cli](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli) | DingTalk official cross-platform CLI — unifies DingTalk's full suite of product capabilities, designed for both human users and AI agents | [DingTalk-Real-AI](https://github.com/DingTalk-Real-AI) |
-| [wecom-cli](https://github.com/WecomTeam/wecom-cli) | 企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信 | [WecomTeam](https://github.com/WecomTeam) |
-
----
-
 ## About OpenCLI
 
 OpenCLI provides 68+ built-in adapters covering social media, finance, developer tools, AI platforms, and more. Community plugins extend its capabilities even further.
