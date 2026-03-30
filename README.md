@@ -19,6 +19,7 @@ For more details on plugin development and installation, see the [Plugin Guide](
 | [github-trending](https://github.com/ByteYue/opencli-plugin-github-trending) | GitHub Trending repositories | [@ByteYue](https://github.com/ByteYue) | YAML | `opencli plugin install github:ByteYue/opencli-plugin-github-trending` |
 | [hot-digest](https://github.com/ByteYue/opencli-plugin-hot-digest) | Multi-platform trending content aggregator | [@ByteYue](https://github.com/ByteYue) | TypeScript | `opencli plugin install github:ByteYue/opencli-plugin-hot-digest` |
 | [juejin](https://github.com/Astro-Han/opencli-plugin-juejin) | 稀土掘金 (Juejin) hot articles | [@Astro-Han](https://github.com/Astro-Han) | YAML | `opencli plugin install github:Astro-Han/opencli-plugin-juejin` |
+| [webofscience](https://github.com/pi-dal/opencli-plugin-webofscience) | Web of Science browser adapter with smart/basic search, author lookup, full-record retrieval, and citation navigation | [@pi-dal](https://github.com/pi-dal) | TypeScript | `opencli plugin install github:pi-dal/opencli-plugin-webofscience` |
 
 ---
 
